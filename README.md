@@ -9,7 +9,7 @@ Built with Python using rich CLI displays, structured PDF reports, and modular a
 
 ---
 
-## 🔍 Features
+##  Features
 
 - Log reader and regex-based parser
 - Brute-force login + root user detection
@@ -20,7 +20,7 @@ Built with Python using rich CLI displays, structured PDF reports, and modular a
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 system-log-anomaly-framework/
@@ -47,7 +47,7 @@ system-log-anomaly-framework/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. **Install dependencies**:
 
@@ -69,7 +69,7 @@ python main.py
 
 ---
 
-## 📷 Sample CLI Output
+##  Sample CLI Output
 
 ```
 [+] Detected 2 anomaly event(s):
@@ -82,7 +82,7 @@ Timestamp            IP Address         Username     Reason
 
 ---
 
-## 🧪 Run Unit Tests
+##  Run Unit Tests
 
 ```bash
 python -m unittest discover -s tests
@@ -90,7 +90,7 @@ python -m unittest discover -s tests
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 - Python 3.x
 - `fpdf` – PDF reporting
@@ -100,6 +100,6 @@ python -m unittest discover -s tests
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
